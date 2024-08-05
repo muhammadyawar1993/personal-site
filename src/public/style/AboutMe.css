@@ -1,0 +1,29 @@
+.about-main {
+    margin-top: 80px;
+}
+.about-main p{
+    text-align: center;
+    color: #707070;
+}
+.about-main .about-box img {
+    max-height: 600px;
+}
+.about-main .about-box .download-btn {
+    margin-top: 30px;
+}
+.skills-main {
+    margin-top: 50px;
+}
+@media (max-width: 768px) {
+    .about-main {
+        margin-top: 30px;
+    }
+    .about-main .about-box img {
+        width: 100%;
+    }
+}
+@media (max-width: 576px) {
+    .about-main .about-box .download-btn {
+        text-align: center;
+    }
+}
