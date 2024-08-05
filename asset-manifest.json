@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/personal-site/static/css/main.1f1dc3c2.css",
+    "main.js": "/personal-site/static/js/main.864b2ae3.js",
+    "static/media/resume.pdf": "/personal-site/static/media/resume.781acca4a1bcd0d63221.pdf",
+    "static/media/banner.png": "/personal-site/static/media/banner.891b512d76472f2e6c86.png",
+    "index.html": "/personal-site/index.html",
+    "main.1f1dc3c2.css.map": "/personal-site/static/css/main.1f1dc3c2.css.map",
+    "main.864b2ae3.js.map": "/personal-site/static/js/main.864b2ae3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f1dc3c2.css",
+    "static/js/main.864b2ae3.js"
+  ]
+}
